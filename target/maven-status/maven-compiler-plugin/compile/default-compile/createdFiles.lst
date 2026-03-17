@@ -21,6 +21,7 @@ com\mycompany\seumercado\telas\CadastroUsuarios$1.class
 com\mycompany\seumercado\telas\Principal$1.class
 com\mycompany\seumercado\telas\EditarProdutos$2.class
 com\mycompany\seumercado\FornecedorJPA.class
+com\mycompany\seumercado\service\ProdutoCalculoService.class
 com\mycompany\seumercado\telas\CadastroUsuarios.class
 com\mycompany\seumercado\telas\EditarClientes$1.class
 com\mycompany\seumercado\Fornecedor.class
