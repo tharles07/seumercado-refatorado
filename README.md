@@ -1,26 +1,28 @@
- SeuMercado - Versão Refatorada
+# Sistema de Mercado 🛒
 
-Projeto de sistema de mercado refatorado aplicando princípios SOLID.
+## 📌 Sobre o projeto
+Sistema completo para gerenciamento de mercado com cadastro de:
+- Clientes
+- Produtos
+- Fornecedores
+- Usuários
 
- Tecnologias
+## 🚀 Tecnologias
 - Java
-- Maven
-- Hibernate
+- JPA / Hibernate
 - MySQL
+- Swing
 
- Princípios SOLID aplicados
-- **S** - Single Responsibility Principle
-- **O** - Open/Closed Principle
-- **L** - Liskov Substitution Principle
-- **I** - Interface Segregation Principle
-- **D** - Dependency Inversion Principle
+## 📷 Funcionalidades
+- Login com validação
+- CRUD completo
+- Relatórios
 
- Como executar
-1. Clone o repositório
-2. Configure o banco de dados MySQL
-3. Execute com Maven: `mvn clean compile exec:java`
+## ▶️ Como rodar
+1. Clone o projeto
+2. Configure o banco
+3. Execute no NetBeans
 
-  Funcionalidades
--  Cadastro de clientes
--  Cadastro de produtos (em desenvolvimento)
--  Vendas (em desenvolvimento)
+## 📈 Melhorias futuras
+- API REST com Spring Boot
+- Interface web
